@@ -1,4 +1,4 @@
-seurl = "https://horeaporutiu.github.io/username.github.io/"
+baseurl = "https://horeaporutiu.github.io/username.github.io/"
 theme = "hugo-geo"
 relativeURLs = false
 languageCode = "en-us"
@@ -14,13 +14,13 @@ paginate = 5
 	showglobe = true
 
 	favicon = "favicon.ico"
-	
+
 	analytics = "code-here"
 
 	email = "alexurquhart@gmail.com"
 
 	profilepic = "img/profPic.JPG"
-	
+
 	title = "MY NAME"
 	subtitle = "MY HUGO BLOG"
 
@@ -42,11 +42,11 @@ paginate = 5
 	[[params.navlinks]]
 	name = "About"
 	url = "about/"
-	
+
 	[[params.navlinks]]
 	name = "Blog"
 	url = "post/"
-	
+
 	[[params.navlinks]]
 	name = "Tutorials"
 	url = "tutorials/"
